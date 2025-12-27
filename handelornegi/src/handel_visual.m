@@ -32,5 +32,6 @@ ylabel('Genlik');
 title('Handel Sesinin Şehir Silüeti');
 
 % Dalga animasyonunun bir karesini kaydet
-saveas(gcf, '../figures/dalga_animasyonu.png');
+saveas(gcf, '../figures/sehir_silueti.png');
+
 
